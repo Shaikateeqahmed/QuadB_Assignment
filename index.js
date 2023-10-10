@@ -7,6 +7,11 @@ require("dotenv").config();
 
 const app = express();
 app.use(express.json());
+
+app.get("/",(req,res)=>{
+    res.status(200).send("HOME PAGE");
+})
+
 app.use("/user",user);
 app.use(authenticate);
 app.use("/profile",profile);
