@@ -82,9 +82,9 @@
 - if User provides a ID of a profile in params, then server will get that profile by ID and Update the content of a profile.
 
 - User will get the following response
-   - 200 as Response, if product Updated successfully.
+   - 200 as Response, if profile Updated successfully.
    - 400 as Response, if user not fills all the fields for updation of profile.
-   - 409 as Response, if product with that ID not exist.
+   - 409 as Response, if profile with that ID not exist.
    - 500 as Response, if server not response.
 
 
