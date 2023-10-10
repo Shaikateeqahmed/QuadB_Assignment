@@ -104,7 +104,7 @@
 *=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
 
 ## BackEnd Deployment Link :-
-               - https://frantic-lapel-fox.cyclic.app/
+               https://frantic-lapel-fox.cyclic.app/
 
 ## Presentation Video Link :-
-               - https://drive.google.com/file/d/1p-KCoC9dlYKUpjljWx-HcKXQfE_AQs8n/view?usp=sharing
+               https://drive.google.com/file/d/1p-KCoC9dlYKUpjljWx-HcKXQfE_AQs8n/view?usp=sharing
